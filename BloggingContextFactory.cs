@@ -4,8 +4,7 @@ using System.Text;
 
 namespace FunctionApp38
 {
-   public class Book
+    class BloggingContextFactory
     {
-        public int BookID { get; set; }
     }
 }
